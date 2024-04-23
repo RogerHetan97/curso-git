@@ -1,3 +1,7 @@
 # curso-git
 repositorio do curso do Git da Comunidade DEV completo
-Z370-aorus!
+acabei de adicionar essa linha.
+git add .(ponto) adiciona tudo o que tiver de modificação , não só o arquivo editado
+ou git add Readme.md  
+git add -p
+.
