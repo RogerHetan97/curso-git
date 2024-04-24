@@ -5,3 +5,6 @@ git add .(ponto) adiciona tudo o que tiver de modificação , não só o arquivo
 ou git add Readme.md  
 git add -p
 .
+TERSTANDO
+agora VENDO NO CODE
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
